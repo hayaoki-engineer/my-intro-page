@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/hayaoki-engineer/",
+  base: "/my-intro-page/",
   plugins: [react()],
 });
